@@ -3,12 +3,9 @@
 ![image](https://user-images.githubusercontent.com/90293555/159101141-260393aa-563c-44f1-bb43-04e3fbaf2196.png)
 
 
-Local Environment Setup
-▪ Node.js version 16.13.0 or later
-▪ Git version 2.32.0 or later
-▪ Yarn version 1.22.17 or later
-▪ ts-node version 10.4.0 or later
-▪ solana cli
+### Local Environment Setup
+- Node.js version 16.13.0 or later
+- solana cli
 
 ![img1](https://user-images.githubusercontent.com/90293555/159101083-59a60734-3334-45dc-8401-73ac3f917c52.jpg)
 
