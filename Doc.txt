@@ -1,0 +1,21 @@
+Acc1
+sol address: FWEXJESqZ5Fpzkx2efg6p1pCmXci1cg1ac3nJpcpxG1R
+
+Creating token 35ExZs3QQJX66U6VGXVt1uy7VZW2FENxRUec45bNXJHv
+
+Creating account 2MUqhLqRm7piFTBgptzK6gHm3WX5AL3LyZHvJd4VZErc
+Minting 1 tokens
+  Token: 35ExZs3QQJX66U6VGXVt1uy7VZW2FENxRUec45bNXJHv
+  Recipient: 2MUqhLqRm7piFTBgptzK6gHm3WX5AL3LyZHvJd4VZErc
+
+
+
+
+Acc2
+
+sol address :CGuYmF72JEefCiAzNLTs6npffesS3aPAK5vRv4iKoLVS
+
+Creating token 5nRFCXJJpoXic9AhfDoNyQiQWVY19EyLV3RQMohZ4MYD
+
+ Token:5nRFCXJJpoXic9AhfDoNyQiQWVY19EyLV3RQMohZ4MYD
+Creating account 5wjVfxEcMuZHxTgd6pSPsj1buwz7r84G1zegPDDFmoZA
