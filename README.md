@@ -6,6 +6,8 @@
 ### Local Environment Setup
 - Node.js version 16.13.0 or later
 - solana cli
+- Phantom
+- Moonbeam Testnet
 
 ![img1](https://user-images.githubusercontent.com/90293555/159101083-59a60734-3334-45dc-8401-73ac3f917c52.jpg)
 
